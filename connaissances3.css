@@ -66,32 +66,9 @@ header{
 }
 
 
-#presentation{
-    font-size: 4em;
-    text-align: center;
-    color: rgb(68, 83, 221);
-    font-family: cursive;
-    font-display: center;
-    padding: 15px;
-    margin: auto;
-    
-}
-
-#auteur{
-    font-size: 1em;
-    text-align: right;
-    color: black;
-    font-family: cursive;
-    font-display: right;
-    padding: 15px;
-    margin: auto;
-
-}
-
-
 
 body{
-    background-color: rgb(122, 212, 235);
+    background-color: rgb(177, 223, 235);
 }
 
 p {
