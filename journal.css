@@ -110,6 +110,7 @@ p {
     border-left: 5px #187498 solid;
     border-radius: 10px;
     padding: 100px;
+    line-height : 25px;
 }
 
 .element1 {
