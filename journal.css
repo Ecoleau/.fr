@@ -164,7 +164,13 @@ img {
 .dja {
   width: 60%; 
   height: auto; 
-  margin-left: 40 px;
+  margin-left: 20 px;
+}
+.lille {
+  width: 30%; 
+  height: auto; 
+  margin-left: 20 px;
+  display: inline-block; 
 }
 
 video{
